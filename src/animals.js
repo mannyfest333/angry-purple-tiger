@@ -270,4 +270,5 @@ export default [
   'leviathan',
   'djinn',
   'nymph',
+  'bald eagle',
 ];
