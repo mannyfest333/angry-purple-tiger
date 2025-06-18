@@ -255,7 +255,6 @@ export default [
   'goblin',
   'tuna',
   'mustang'
-  'dragon',
   'phoenix',
   'hydra',
   'chimera',
